@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="./angular_banner.png?raw=true" alt="re-frame logo"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="./wordpress_banner.png?raw=true" alt="re-frame logo"></a></p>
 
 # My WordPress Home
 
