@@ -1,8 +1,8 @@
 <p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img src="./angular_banner.png?raw=true" alt="re-frame logo"></a></p>
 
-# My Angular Home
+# My WordPress Home
 
-> I am sharing my Angular learning journey here. I have shared some of my small projects, practice codes, and tutorials, which are given in the form of folders. Hopefully, anyone will understand very easily. Let me know if you have trouble understanding. <br>
+> I am sharing my WordPress learning journey here. I have shared some of my live projects. Please check those. <br>
 > Reach me by [Email](mahibur.business@gmail.com)
 
 ## All Projects
